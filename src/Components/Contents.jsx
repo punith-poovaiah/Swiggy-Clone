@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Card, Button } from "react-bootstrap";
-import { SwiggyData } from "../Utils/Data";
+import { SwiggyData } from "../../Utils/Data";
 import { MdStars } from "react-icons/md";
 
 function Contents() {

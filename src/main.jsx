@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
 import App from "./App.jsx";
-import Details from "../Components/Details.jsx";
+import Details from "./Components/Details.jsx";
 
 const appRoute = createBrowserRouter([
   {

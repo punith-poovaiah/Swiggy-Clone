@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Col, Card } from "react-bootstrap";
 import { useParams } from "react-router-dom";
-import { SwiggyData } from "../Utils/Data";
+import { SwiggyData } from "../../Utils/Data";
 import useFetchData from "../Hooks/useFetchData";
 
 function Details() {
